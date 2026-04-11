@@ -66,3 +66,11 @@ footer {
   color: #fff;
   margin-top: 20px;
 }
+.minha-foto {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 10px auto;
+  object-fit: cover;
+}
